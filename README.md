@@ -1,2 +1,5 @@
-# deep-learning
-This repository is part of a college-assigned project focused on Deep Learning — a key area within Artificial Intelligence. It includes a curated collection of essential concepts, experiments, and projects that showcase the practical applications of neural networks and deep learning techniques.
+# Deep-Learning
+Lab practicals from the Deep Learning course at my institution. Covers important topics like Logistic Regression, Cost and Loss Function, development of CNNs and more.\
+HR folder - Logistic Regression\
+Insurance folder - Cost & Loss Function, Gradient Descent & Regularization\
+Potato Disease folder - CNN model to predict Potato Disease
